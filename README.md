@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trishank777
 - 👀 I’m interested in Business Analyst roles
-- 🌱 I’m currently learning R programming & Data Visualization
-- 💞️ I’m looking to collaborate on with R beginners and intermediates
+- 🌱 I’m currently learning, Python, R programming & Data Visualization
+- 💞️ I’m looking to collaborate on with R beginners, Python and intermediates
 - 📫 reach me trishank.kumar@gmail.com
 
 <!---
